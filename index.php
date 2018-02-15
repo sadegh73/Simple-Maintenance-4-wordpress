@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Simple-Maintenance-4-wp
-Plugin URI: https://github.com/sadegh98/Simple-Maintenance-4-wordpress
+Plugin URI: https://github.com/sadegh73/Simple-Maintenance-4-wordpress
 Description: Simple Maintenance Template 
 Version: 1.0.1
 
